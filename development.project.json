@@ -1,0 +1,19 @@
+{
+    "name": "Asset Relay Development",
+    "tree": {
+        "$className": "DataModel",
+        "PluginDebugService": {
+            "user_AssetRelay.rbxmx": {
+                "$className": "Plugin",
+                "AssetRelay": {
+                    "$path": "plugin"
+                }
+            }
+        },
+        "Workspace": {
+            "plugin_tests": {
+                "$path": "plugin_tests"
+            }
+        }
+    }
+}

@@ -1,0 +1,26 @@
+# Go
+AssetRelay
+AssetRelay.exe
+*.test
+*.out
+
+# Runtime files
+cookie.txt
+config.ini.bak
+
+# Tools
+.rojo/
+aftman.toml.lock
+selene-out.log
+
+# Build outputs
+*.rbxm
+*.rbxl
+*.rbxlx
+*.place
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
